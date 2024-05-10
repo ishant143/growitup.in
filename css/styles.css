@@ -2073,10 +2073,10 @@ button,
 
 /* dots jump */
 .dots-jump>div {
-    -webkit-animation: dots-jump 1.2s infinite ease;
-    animation: dots-jump 1.2s infinite ease;
-    -webkit-animation-delay: 0.2s;
-    animation-delay: 0.2s;
+    -webkit-animation: dots-jump 0.3s infinite ease;
+    animation: dots-jump 0.3s infinite ease;
+    -webkit-animation-delay: 0.1s;
+    animation-delay: 0.1s;
 }
 
 .dots-jump>div:nth-of-type(1) {
